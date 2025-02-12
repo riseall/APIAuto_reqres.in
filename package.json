@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive --reporter mochawesome"
+    "test": "mocha --recursive --reporter mochawesome",
+    "report": "start chrome file:///D:/Mini%20Bootcamp%20QA/API%20Automation/APIAuto_reqres/mochawesome-report/mochawesome.html"
   },
   "keywords": [],
   "author": "",
